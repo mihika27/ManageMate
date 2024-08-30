@@ -1,6 +1,8 @@
 # ManageMate
 Built an reliable partner in organizing tasks, managing teams, and achieving project goals , made using MERN stack.
 
+With features designed for task management, team coordination, and real-time updates, ManageMate streamlines workflows and enhances productivity. Its intuitive interface ensures that managing tasks, setting deadlines, and monitoring progress is seamless, allowing you to focus on achieving project goals with ease.
+
 ## Setup instruction
 
 - Step 1: Install dependencies/node_module
